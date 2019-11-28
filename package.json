@@ -4,7 +4,7 @@
   "main": "index.ts",
   "license": "MIT",
   "dependencies": {
-    "@polkadot/api": "^0.97.0-beta.15",
+    "@polkadot/api": "^0.97.0-beta.39",
     "ts-node": "^8.5.2",
     "typescript": "^3.7.2"
   },
